@@ -1,0 +1,2 @@
+# VimX
+Grub theme
